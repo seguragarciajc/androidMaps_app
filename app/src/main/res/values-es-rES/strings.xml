@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica CoMov</string>
+    <string name="text_button_map">Mapa</string>
+    <string name="buscar_red">Buscar Red</string>
+    <string name="title_activity_maps">ActividadMapa</string>
+    <string name="guardar_informacion"> Guardar Informacion</string>
+    <string name="map_title">Titulo del mapa</string>
+    <string name="nueva_etapa">Nueva Etapa</string>
+</resources>

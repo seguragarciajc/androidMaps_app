@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoMovPrac</string>
+    <string name="text_button_map">Map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="buscar_red">Search Net</string>
+    <string name="guardar_informacion"> Save Information</string>
+    <string name="nueva_etapa"> New Stage</string>
+    <string name="map_title">Map Title</string>
+</resources>
